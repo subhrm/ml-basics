@@ -1,0 +1,5000 @@
+00
+00 00
+000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+0d
+0d 0d
+0g
+0i
+0m
+0q
+0t
+0t 0t
+10
+100
+100 000
+1000
+101
+104
+105
+11
+110
+12
+120
+1200
+125
+128
+129
+13
+130
+14
+14 article
+140
+144
+145
+145 145
+146
+147
+15
+15 00
+15 article
+150
+16
+16 apr
+16 article
+16 bit
+160
+17
+17 article
+18
+18 article
+19
+19 article
+1919
+192
+1920
+1980
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1993apr13
+1993apr14
+1993apr15
+1993apr16
+1993apr17
+1993apr18
+1993apr19
+1993apr2
+1993apr20
+1993apr21
+1993apr5
+1993apr6
+1d
+1d9
+1d9 1d9
+1d9l
+1eq
+1f
+1m
+1st
+1t
+1t 1t
+20
+20 00
+20 article
+200
+2000
+2000 years
+202
+205
+206
+21
+21 article
+212
+214
+22
+22 article
+23
+23 article
+230
+24
+24 article
+24 bit
+241
+241 9760
+24e
+25
+25 article
+250
+256
+26
+26 article
+27
+27 article
+28
+286
+29
+2d
+2di
+2di 2di
+2j
+2nd
+2q
+2tm
+2tm 2tm
+30
+30 article
+300
+3000
+301
+31
+310
+32
+32 bit
+33
+34
+34u
+34u 34u
+35
+350
+36
+37
+38
+386
+39
+3d
+3dy
+3l
+3rd
+3t
+3t 3t
+40
+400
+408
+408 241
+41
+41 article
+415
+42
+43
+44
+45
+46
+47
+48
+486
+49
+4e
+4t
+4th
+4u
+50
+500
+5000
+51
+510
+512
+52
+53
+54
+55
+56
+57
+58
+59
+5u
+60
+600
+604
+61
+610
+617
+62
+63
+64
+65
+650
+66
+67
+68
+69
+6e
+6ei
+6ei 6ei
+6g
+6p
+6t
+6um
+70
+700
+703
+71
+713
+72
+73
+74
+75
+750
+75u
+75u 75u
+76
+77
+78
+79
+7ex
+7ey
+7ey 7ey
+7ez
+7kn
+7u
+80
+800
+805
+81
+82
+83
+84
+85
+86
+87
+88
+89
+8n
+8v
+90
+900
+91
+92
+93
+94
+95
+96
+97
+9760
+9760 guest
+98
+99
+9d
+9f
+9f9
+9v
+a4
+a7
+a86
+a86 a86
+aaron
+ab
+abc
+abiding
+ability
+able
+abortion
+absolute
+absolutely
+abuse
+ac
+ac nz
+ac uk
+academic
+acc
+accelerator
+accept
+acceptable
+accepted
+accepting
+access
+access digex
+access online
+access unix
+accident
+accidents
+according
+account
+accounts
+accurate
+acid
+acns
+acquired
+acs
+acs oakland
+acs ohio
+acsu
+acsu buffalo
+act
+action
+actions
+active
+activities
+activity
+acts
+actual
+actually
+ad
+adam
+adams
+adaptec
+adapter
+add
+added
+adding
+addition
+additional
+address
+addresses
+adl
+administration
+admit
+adobe
+adobe com
+advance
+advanced
+advantage
+advertising
+advice
+affairs
+affect
+affected
+afford
+afraid
+age
+agencies
+agency
+agent
+agents
+ago
+agree
+agreed
+agreement
+ah
+ahead
+ahl
+ai
+ai mit
+ai uga
+aid
+aids
+ain
+air
+aircraft
+aix
+al
+alan
+alaska
+alaska edu
+alchemy
+alchemy chem
+alcohol
+alex
+alexander
+algorithm
+algorithms
+alive
+allan
+allan schneider
+allen
+allow
+allowed
+allowing
+allows
+alomar
+alot
+alt
+alt atheism
+alternative
+ama
+amanda
+amateur
+amazing
+amendment
+america
+american
+americans
+ames
+amherst
+amiga
+amounts
+amp
+analog
+analogy
+analysis
+ancient
+anderson
+andre
+andrew
+andrew cmu
+andy
+angeles
+angels
+animal
+animals
+animation
+ann
+ann arbor
+announced
+announcement
+annoying
+annual
+anonymous
+anonymous ftp
+ansi
+answer
+answer question
+answered
+answers
+antenna
+anthony
+anti
+anybody
+anybody know
+anymore
+ap
+apart
+apartment
+apc
+apc org
+apollo
+app
+apparent
+apparently
+appear
+appeared
+appears
+apple
+apple com
+application
+applications
+applied
+applies
+apply
+appreciate
+appreciated
+appreciated thanks
+appressian
+approach
+appropriate
+approved
+apps
+apr
+apr 1993
+apr 93
+april
+april 20
+arab
+arabs
+arbor
+arc
+archie
+archive
+archives
+area
+areas
+aren
+argic
+args
+argue
+arguing
+argument
+arguments
+arizona
+arizona edu
+arm
+armed
+armenia
+armenia today
+armenian
+armenians
+arms
+army
+arrived
+arrogance
+arrogant
+art
+arthur
+article
+article 1993apr13
+article 1993apr14
+article 1993apr15
+article 1993apr16
+article 1993apr17
+article 1993apr18
+article 1993apr19
+article 1993apr20
+article 1993apr21
+article 1993apr5
+article apr
+articles
+artificial
+arts
+ascii
+aside
+ask
+asked
+asked questions
+asking
+aspects
+ass
+assault
+assembly
+assertion
+assistance
+associated
+association
+assume
+assumed
+assuming
+assumption
+astro
+astronomy
+atf
+atheism
+atheist
+atheists
+athena
+athena mit
+athens
+athos
+athos rutgers
+ati
+atlanta
+atmosphere
+att
+att com
+attached
+attack
+attacked
+attacks
+attempt
+attempts
+attention
+attitude
+attorney
+au
+audio
+august
+aurora
+aurora alaska
+austin
+austin ibm
+australia
+australia lines
+author
+authorities
+authority
+authors
+auto
+automatic
+automatically
+autos
+availability
+available
+available anonymous
+ave
+avenue
+average
+avoid
+award
+aware
+away
+awful
+ax
+ax ax
+ax max
+ax qq
+az
+azerbaijan
+azerbaijani
+azeri
+azeris
+b4q
+b8
+b8e
+b8f
+b8f b8f
+b8g
+ba
+baalke
+baby
+background
+backup
+bad
+baker
+baku
+ball
+baltimore
+ban
+band
+bank
+banks
+banks n3jxp
+bar
+base
+baseball
+based
+bases
+basic
+basically
+basis
+bat
+batf
+batman
+battery
+battle
+bay
+bbs
+bc
+bc ca
+bd
+beach
+bear
+bear arms
+bears
+beast
+beat
+beating
+beck
+began
+begin
+beginning
+behanna
+behavior
+behaviour
+beings
+belief
+beliefs
+believe
+believe god
+believed
+believes
+believing
+bell
+bellcore
+bellcore com
+belong
+benedikt
+benefit
+benefits
+berkeley
+berkeley edu
+berlin
+best
+best offer
+bet
+beta
+better
+bh
+bhj
+bhj bhj
+bi
+bias
+biased
+bible
+biblical
+big
+bigger
+biggest
+bike
+bikes
+billion
+binaries
+binary
+bios
+birth
+bit
+bitmap
+bitnet
+bits
+biz
+bj
+black
+blah
+blame
+blind
+block
+blocks
+blood
+blow
+blue
+blues
+bm
+bmp
+bmw
+bn
+bnr
+bnr ca
+board
+boards
+bob
+bobby
+bodies
+body
+boeing
+boeing com
+bomb
+bombing
+bontchev
+book
+books
+boot
+border
+borders
+borland
+born
+bos
+bosnia
+boston
+bother
+bought
+boulder
+bound
+box
+boxes
+boy
+br
+br com
+brad
+bradley
+brain
+brake
+branch
+brand
+brand new
+brandeis
+braves
+break
+breaker
+breaking
+brent
+brian
+bring
+brings
+britain
+british
+broadcast
+broke
+broken
+brother
+brothers
+brought
+brown
+bruce
+bruins
+bryan
+bs
+btw
+bu
+bu edu
+budget
+buf
+buffalo
+buffalo edu
+buffer
+bug
+bugs
+build
+building
+built
+bull
+bunch
+bureau
+burn
+burned
+burning
+burns
+bus
+bush
+business
+busy
+button
+buy
+buying
+bxn
+bxn bxn
+byte
+bytes
+c650
+c8
+c8v
+ca
+ca boeing
+ca lines
+ca organization
+ca writes
+cable
+cache
+cactus
+cactus org
+cad
+cadre
+cadre dsl
+cal
+calgary
+california
+california institute
+called
+calling
+callison
+calls
+calpoly
+calpoly edu
+caltech
+caltech edu
+cam
+cam ac
+cambridge
+cambridge ma
+came
+camera
+camp
+campaign
+campbell
+campus
+canada
+canada lines
+canadian
+cancer
+candida
+canon
+capabilities
+capability
+capable
+capacity
+capital
+caps
+captain
+car
+card
+cards
+care
+career
+careful
+carefully
+cares
+carl
+carleton
+carleton ca
+carnegie
+carnegie mellon
+carolina
+carried
+carry
+carrying
+cars
+carson
+carson washington
+carter
+case
+case western
+cases
+cash
+cat
+catalog
+catch
+category
+catholic
+caught
+cause
+caused
+causes
+causing
+cb
+cb att
+cc
+cc buffalo
+cc columbia
+cc lehigh
+cc monash
+cc purdue
+cc utexas
+cco
+cco caltech
+ccwf
+ccwf cc
+cd
+cd rom
+cdc
+cdt
+cell
+cells
+cellular
+center
+center lines
+center policy
+centerline
+centers
+central
+centre
+centris
+century
+certain
+certainly
+cf
+ch
+chain
+challenge
+chance
+chances
+change
+changed
+changes
+changing
+channel
+chapter
+char
+character
+characters
+charge
+charges
+charles
+charlie
+chastity
+chastity intellect
+cheap
+cheaper
+check
+checked
+checking
+cheers
+chem
+chem utoronto
+chemical
+chemistry
+chen
+chi
+chicago
+chief
+child
+children
+chinese
+chip
+chips
+choice
+choices
+choose
+chopin
+chopin udel
+chose
+chosen
+chris
+christ
+christian
+christianity
+christians
+christopher
+chuck
+church
+churches
+chz
+ci
+cipher
+circle
+circuit
+circuits
+circumstances
+cis
+cities
+citizen
+citizens
+city
+civil
+civilian
+civilians
+ck
+cl
+claim
+claimed
+claiming
+claims
+claremont
+claremont edu
+clarinet
+clark
+clarkson
+clarkson edu
+class
+classes
+classic
+classified
+clayton
+clayton cramer
+clean
+clear
+clearly
+cleveland
+cleveland freenet
+cleveland oh
+cleveland ohio
+clh
+client
+clients
+clinton
+clipper
+clipper chip
+clock
+close
+closed
+closely
+closer
+club
+cmu
+cmu edu
+cnn
+coach
+coast
+code
+code good
+codes
+col
+col hp
+cold
+collection
+college
+collins
+color
+colorado
+colorado boulder
+colorado edu
+colormap
+colors
+colostate
+colostate edu
+colour
+columbia
+columbia edu
+column
+com
+com article
+com bob
+com chris
+com clayton
+com dave
+com david
+com jim
+com john
+com jon
+com kent
+com mark
+com message
+com michael
+com mike
+com nntp
+com organization
+com pat
+com paul
+com richard
+com robert
+com steve
+com subject
+com tom
+com writes
+com wrote
+combination
+combined
+come
+comes
+comet
+coming
+comm
+command
+commands
+comment
+comments
+commercial
+committed
+committee
+common
+commonly
+communication
+communication services
+communications
+community
+comp
+comp os
+companies
+company
+compare
+compared
+comparison
+compatible
+compile
+compiled
+complain
+complaints
+complete
+completely
+complex
+complicated
+components
+compound
+comprehensive
+compression
+compromise
+compuserve
+computer
+computer network
+computer science
+computers
+computing
+concealed
+concept
+concepts
+concern
+concerned
+concerning
+concerns
+conclusion
+conclusions
+condition
+conditions
+conduct
+conference
+config
+configuration
+conflict
+confused
+congress
+connect
+connected
+connection
+connector
+consequences
+consider
+consideration
+considered
+considering
+consistent
+constant
+constitution
+constitutional
+construction
+contact
+contain
+contained
+containing
+contains
+content
+contents
+contest
+context
+continue
+continued
+continues
+continuing
+contract
+contrary
+contrib
+control
+controlled
+controller
+controls
+convenient
+conversation
+conversations
+conversion
+convert
+converted
+converter
+convex
+convince
+convinced
+cook
+cool
+cooling
+cop
+copies
+cops
+copy
+copyright
+core
+cornell
+cornell edu
+corner
+corp
+corporate
+corporation
+corporation lines
+correct
+correctly
+cost
+costs
+couldn
+council
+count
+counter
+countersteering
+countries
+country
+county
+couple
+course
+court
+cover
+coverage
+covered
+covington
+cpr
+cpu
+crack
+craft
+craig
+cramer
+crap
+crash
+cray
+cray com
+crazy
+create
+created
+creating
+creation
+credit
+crew
+crime
+crimes
+criminal
+criminals
+critical
+cross
+crowd
+crypt
+crypto
+cryptography
+cs
+cs cmu
+cs colorado
+cs cornell
+cs dept
+cs du
+cs laurentian
+cs pitt
+cs rochester
+cs uiuc
+cs unc
+cs utexas
+csc
+csd
+cso
+cso uiuc
+ct
+cubs
+cult
+cultural
+culture
+cunixb
+cunixb cc
+cup
+cup portal
+curious
+current
+currently
+cursor
+custom
+cut
+cv
+cwru
+cwru edu
+cx
+cx cx
+cycle
+cyprus
+d6
+d9
+da
+daily
+dal
+dale
+dallas
+damage
+damn
+dan
+danger
+dangerous
+daniel
+danny
+dare
+dark
+darren
+dartmouth
+dartmouth edu
+data
+database
+date
+daughter
+dave
+david
+david davidian
+david koresh
+david sternlight
+david veal
+davidian
+davidians
+davis
+day
+days
+db
+dbd
+dbd urartu
+dc
+dcs
+dead
+deal
+dealer
+dealers
+dealing
+dean
+dear
+death
+deaths
+debate
+dec
+dec com
+december
+decent
+decide
+decided
+decision
+decisions
+deep
+default
+defend
+defense
+defensive
+define
+defined
+definitely
+definition
+degree
+degrees
+deleted
+demand
+demo
+democracy
+democratic
+demon
+demon uk
+den
+denied
+denning
+dennis
+denver
+deny
+department
+department computer
+department lines
+depending
+depends
+dept
+dept computer
+dept lines
+depth
+der
+derek
+des
+described
+describes
+description
+deserve
+design
+designed
+desire
+desktop
+despite
+destroy
+destroyed
+destruction
+det
+detailed
+details
+detect
+detector
+detectors
+determine
+determined
+detroit
+dev
+develop
+developed
+developing
+development
+device
+devices
+devils
+dg
+dg com
+di
+diamond
+dick
+dictionary
+did
+didn
+didn know
+die
+died
+diego
+diet
+difference
+differences
+different
+difficult
+digest
+digex
+digex com
+digex net
+digital
+direct
+directed
+direction
+directly
+director
+directory
+disagree
+disclaimer
+discovered
+discuss
+discussed
+discussing
+discussion
+discussions
+disease
+diseases
+disk
+disks
+display
+displays
+distance
+distributed
+distribution
+distribution na
+distribution usa
+distribution world
+div
+divine
+division
+dk
+dl
+dma
+doc
+doctor
+doctors
+doctrine
+document
+documentation
+documents
+dod
+does
+does anybody
+does exist
+does know
+does make
+does mean
+doesn
+doesn mean
+doesn work
+dog
+dogs
+doing
+dollar
+dollars
+domain
+don
+don believe
+don care
+don know
+don like
+don need
+don think
+don understand
+don want
+donald
+dont
+door
+doors
+dos
+dot
+double
+doubt
+doug
+douglas
+dozen
+dr
+draft
+drag
+draw
+drawing
+drawn
+dream
+dresden
+drink
+drive
+driven
+driver
+drivers
+drives
+driving
+drop
+dropped
+drug
+drugs
+dseg
+dseg ti
+dsl
+dsl pitt
+dt
+du
+du edu
+dual
+duke
+duke edu
+dumb
+duo
+duty
+dyer
+earlier
+early
+earth
+easier
+easily
+east
+east sun
+easter
+eastern
+easy
+eat
+eating
+ece
+echo
+ecn
+ecn purdue
+ecn uoknor
+economic
+economy
+ecs
+ed
+edge
+edition
+editor
+edm
+edmonton
+edt
+edu
+edu andrew
+edu article
+edu au
+edu brian
+edu daniel
+edu david
+edu edward
+edu gary
+edu gordon
+edu henry
+edu james
+edu john
+edu joseph
+edu keith
+edu lines
+edu mark
+edu message
+edu michael
+edu mike
+edu nntp
+edu organization
+edu paul
+edu pub
+edu reply
+edu robert
+edu scott
+edu shameful
+edu stephen
+edu subject
+edu tim
+edu university
+edu writes
+edu wrote
+education
+educational
+edward
+ee
+eff
+eff org
+effect
+effective
+effectively
+effects
+effort
+efforts
+eh
+ei
+einstein
+eisa
+el
+electric
+electrical
+electronic
+electronics
+elements
+em
+email
+email address
+emergency
+empire
+employer
+en
+encrypted
+encryption
+end
+ended
+ends
+energy
+enforcement
+eng
+eng sun
+eng umd
+engin
+engin umich
+engine
+engineer
+engineering
+engines
+england
+english
+engr
+enjoy
+ensure
+enter
+entire
+entirely
+entitled
+entries
+entry
+environment
+environmental
+eof
+eos
+eos ncsu
+equal
+equally
+equipment
+equivalent
+er
+era
+eric
+ericsson
+ericsson se
+error
+errors
+es
+escape
+escrow
+esdi
+especially
+espn
+essential
+essentially
+establish
+established
+et
+et al
+eternal
+ethernet
+ethnic
+eu
+europe
+european
+europeans
+evans
+evening
+event
+events
+eventually
+everybody
+evidence
+evil
+ex
+exact
+exactly
+example
+examples
+excellent
+exception
+exchange
+excuse
+exe
+executive
+exercise
+exist
+existence
+existing
+exists
+exit
+expansion
+expect
+expected
+expensive
+experience
+experienced
+experiences
+experiment
+experimental
+expert
+experts
+expires
+explain
+explained
+explanation
+explicitly
+exploration
+expo
+expo lcs
+export
+export lcs
+expose
+express
+express access
+expressed
+extended
+extension
+extent
+extermination
+external
+extra
+extreme
+extremely
+eye
+eyes
+f0
+face
+facilities
+facility
+fact
+factor
+factors
+factory
+facts
+fail
+failed
+fails
+failure
+fair
+fairly
+faith
+fall
+fallacy
+falls
+false
+fame
+familiar
+family
+famous
+fan
+fancy
+fans
+faq
+far
+far know
+fast
+faster
+fat
+father
+fault
+favor
+favorite
+fax
+fbi
+fbihh
+fear
+feature
+features
+feb
+february
+federal
+federal government
+feds
+fee
+feed
+feel
+feeling
+feels
+feet
+fell
+fellow
+felt
+female
+fi
+fidonet
+field
+fields
+fifth
+fight
+fighting
+figure
+figures
+fij
+file
+filename
+files
+filled
+film
+final
+finally
+finals
+finding
+fine
+finger
+finish
+finished
+finland
+firearm
+firearms
+fired
+firm
+fit
+fits
+fix
+fixed
+fl
+flame
+flames
+flat
+flight
+floor
+floppy
+florida
+flow
+fly
+flyers
+flying
+fm
+fnal
+fnal gov
+focus
+folks
+follow
+followed
+followers
+following
+follows
+font
+fonts
+food
+foods
+fool
+foot
+force
+forced
+forces
+ford
+foreign
+forever
+forget
+forgot
+form
+format
+formats
+forms
+forsale
+forth
+forum
+forward
+foundation
+fourth
+fpu
+fr
+frame
+france
+francis
+francisco
+frank
+fraser
+fred
+free
+freedom
+freely
+freeman
+freenet
+freenet carleton
+freenet edu
+french
+frequency
+frequently
+fri
+friday
+friend
+friendly
+friends
+fsu
+fsu edu
+ft
+ftp
+ftp site
+fuel
+fully
+fun
+function
+functions
+fund
+fundamental
+funding
+funds
+funny
+furthermore
+future
+fyn
+g9
+g9v
+g9v g9v
+ga
+gain
+gainey
+galaxy
+galileo
+game
+games
+gang
+gap
+gary
+gary dare
+gas
+gatech
+gatech edu
+gateway
+gave
+gay
+gaza
+gb
+gc
+ge
+gear
+geb
+geb cadre
+geb cs
+gee
+gene
+general
+generally
+generate
+generated
+generation
+genesis
+geneva
+geneva rutgers
+genocide
+geometry
+george
+georgia
+georgia institute
+gerald
+german
+germany
+germany lines
+gets
+getting
+ghj
+gi
+gif
+gilmour
+girl
+given
+gives
+giving
+giz
+giz giz
+gk
+gl
+glad
+gld
+gld cunixb
+global
+gm
+gmt
+gmt article
+gmt organization
+gnu
+goal
+goalie
+goals
+god
+god does
+gods
+goes
+going
+gold
+golden
+gone
+gonna
+good
+good idea
+good luck
+gordon
+gordon banks
+gore
+gospel
+got
+gotten
+gov
+government
+governments
+govt
+gq
+grace
+grade
+graduate
+graham
+grand
+grant
+granted
+graphic
+graphics
+gravity
+gray
+great
+greater
+greatest
+greatly
+greatly appreciated
+greece
+greek
+greeks
+green
+greg
+gregg
+gregory
+ground
+grounds
+group
+groups
+growth
+gsfc
+gsfc nasa
+gt
+gtoal
+guarantee
+guaranteed
+guard
+guess
+guest
+guest lines
+guide
+guidelines
+guilty
+gun
+gun control
+guns
+guy
+guys
+gw
+gy
+ha
+hal
+halat
+half
+hall
+hall fame
+hallam
+hamburg
+hamilton
+hand
+handed
+handgun
+handguns
+handheld
+handheld com
+handle
+handling
+hands
+happen
+happened
+happening
+happens
+happy
+hard
+hard disk
+hard drive
+harder
+hardly
+hardware
+harm
+harris
+harris com
+harry
+hartford
+harvard
+harvard edu
+harvey
+hasan
+hasn
+hate
+haven
+having
+hawaii
+hawks
+hd
+head
+headed
+header
+heads
+health
+health care
+healthy
+hear
+heard
+hearing
+heart
+heat
+heaven
+heavy
+hebrew
+heck
+height
+held
+hell
+hello
+helmet
+help
+helped
+helpful
+helps
+henrik
+henry
+henry spencer
+henry zoo
+hernlem
+hewlett
+hewlett packard
+hey
+hi
+hidden
+hide
+higgins
+high
+high speed
+higher
+highest
+highly
+highway
+hill
+hints
+historical
+history
+hit
+hitler
+hits
+hitter
+hitting
+hiv
+hj
+hm
+hmm
+hmmm
+ho
+hockey
+hold
+holding
+holds
+hole
+holes
+holland
+holocaust
+holy
+holy spirit
+home
+homicide
+homosexual
+homosexuality
+homosexuals
+honda
+honest
+honor
+hook
+hope
+hope helps
+hopefully
+hoping
+hopkins
+horse
+hospital
+host
+host access
+hot
+hour
+hours
+house
+houses
+houston
+howard
+hp
+hp com
+hq
+hr
+hst
+hudson
+huge
+hughes
+huh
+hulman
+human
+human rights
+humanity
+humans
+hundreds
+hurt
+husband
+hut
+hz
+i4
+ia
+ian
+iastate
+iastate edu
+ibm
+ibm com
+ibm pc
+ic
+ice
+ico
+ico tek
+icon
+ics
+id
+idaho
+ide
+idea
+ideas
+identical
+identify
+identity
+idiot
+ifi
+igc
+igc apc
+ignorance
+ignorant
+ignore
+ii
+iii
+il
+illegal
+illinois
+illinois urbana
+im
+image
+image processing
+images
+imagine
+imaging
+imho
+immediate
+immediately
+immoral
+impact
+implementation
+implemented
+imply
+importance
+important
+impossible
+impression
+impressive
+improve
+improved
+improvement
+inch
+incident
+include
+included
+includes
+including
+income
+incorporated
+incorrect
+increase
+increased
+independent
+index
+indiana
+indiana edu
+indiana university
+indians
+indicate
+indicates
+individual
+individuals
+industrial
+industry
+inet
+inf
+info
+informatik
+informatik uni
+information
+infrastructure
+ingr
+ingr com
+ini
+initial
+initiative
+injured
+injuries
+injury
+innocent
+input
+ins
+ins cwru
+insert
+inside
+install
+installation
+installed
+instance
+instead
+institute
+institute technology
+instruction
+instructions
+instruments
+insurance
+int
+intel
+intellect
+intellect geb
+intelligence
+intelligent
+intend
+intended
+intent
+interactive
+intercon
+interested
+interesting
+interests
+interface
+intergraph
+internal
+international
+internet
+interpretation
+introduction
+investigation
+investment
+involve
+involved
+io
+iowa
+ip
+iq
+ir
+iran
+irq
+irrelevant
+irvine
+isa
+isc
+isc br
+isc rit
+islam
+islamic
+island
+islanders
+isn
+israel
+israeli
+israelis
+issue
+issued
+issues
+istanbul
+ists
+item
+items
+iv
+jack
+jackson
+jaeger
+jake
+james
+jan
+january
+japan
+japanese
+jason
+jay
+jays
+je
+jeff
+jerry
+jersey
+jerusalem
+jesus
+jesus christ
+jet
+jet propulsion
+jets
+jew
+jewish
+jews
+jhu
+jhu edu
+jim
+jmd
+job
+jobs
+joe
+joel
+john
+johnson
+join
+joke
+jon
+jon livesey
+jonathan
+jones
+jordan
+jose
+joseph
+josh
+journal
+jp
+jpeg
+jpl
+jpl nasa
+jr
+jsc
+jsc nasa
+judas
+judge
+judgement
+judges
+july
+jump
+jumper
+june
+junk
+jupiter
+just
+just don
+just like
+justice
+justification
+justified
+justify
+jz
+k8
+kaldis
+kansas
+karabakh
+keeping
+keeps
+keith
+keith allan
+keith cco
+kelvin
+kelvin jpl
+ken
+kenneth
+kent
+kent sandvik
+kept
+kevin
+key
+key escrow
+keyboard
+keys
+keywords
+kg
+kh
+kid
+kids
+kill
+killed
+killing
+kind
+kinds
+king
+kingdom
+kings
+kit
+kk
+km
+kn
+knew
+knife
+know
+knowing
+knowledge
+known
+knows
+koresh
+kpc
+kpc com
+ksu
+la
+lab
+labor
+laboratories
+laboratory
+laboratory lines
+labs
+lack
+lady
+lake
+lance
+lance colostate
+land
+landing
+lane
+language
+larc
+larc nasa
+large
+larger
+larry
+laser
+late
+later
+latest
+laugh
+launch
+launched
+laurentian
+laurentian ca
+law
+law enforcement
+lawrence
+laws
+lay
+lc
+lciii
+lcs
+lcs mit
+ld
+le
+lead
+leader
+leaders
+leadership
+leading
+leads
+leafs
+league
+learn
+learned
+learning
+leave
+leaves
+leaving
+lebanese
+lebanon
+led
+lee
+left
+legal
+legally
+legislation
+legitimate
+lehigh
+lehigh edu
+leland
+leland stanford
+lemieux
+len
+length
+leo
+lerc
+let
+let know
+lets
+letter
+letters
+letting
+level
+levels
+lewis
+lg
+liar
+lib
+liberal
+libertarian
+liberties
+liberty
+libraries
+library
+license
+lie
+lies
+life
+light
+lights
+like
+like know
+liked
+likely
+limit
+limited
+limits
+lindros
+line
+lines 10
+lines 11
+lines 12
+lines 13
+lines 14
+lines 15
+lines 16
+lines 17
+lines 18
+lines 19
+lines 20
+lines 21
+lines 22
+lines 23
+lines 24
+lines 25
+lines 26
+lines 27
+lines 28
+lines 29
+lines 30
+lines 31
+lines 32
+lines 33
+lines 34
+lines 35
+lines 36
+lines 37
+lines 38
+lines 39
+lines 40
+lines 41
+lines 42
+lines 43
+lines 44
+lines 47
+lines distribution
+lines nntp
+link
+linked
+linux
+list
+listed
+listen
+listening
+listing
+lists
+literature
+little
+little bit
+live
+lived
+lives
+livesey
+livesey solntze
+living
+lj
+lk
+ll
+load
+loaded
+local
+local bus
+located
+location
+lock
+lockheed
+log
+logic
+logical
+login
+london
+long
+long term
+long time
+longer
+longer exists
+look
+look like
+looked
+looking
+looks
+looks like
+loop
+lord
+los
+los angeles
+lose
+losing
+loss
+lost
+lot
+lots
+louis
+louisville
+love
+loving
+low
+lower
+lq
+luck
+lucky
+luke
+lunar
+lw
+lying
+m0
+m1
+m3
+m4
+m5
+m6
+m8
+m9
+ma
+ma lines
+mac
+machine
+machines
+macintosh
+macs
+madison
+mag
+magazine
+magic
+magnus
+magnus acs
+mail
+mail address
+mail sas
+mailer
+mailing
+mailing list
+main
+maine
+mainly
+maintain
+major
+majority
+make
+make sense
+make sure
+makes
+makes sense
+making
+male
+mamma
+man
+managed
+management
+manager
+manes
+manner
+mantis
+mantis uk
+manual
+manuals
+manufacturer
+manufacturers
+map
+maple
+marc
+march
+mario
+mark
+market
+marketing
+marriage
+married
+mars
+martin
+mary
+maryland
+mask
+mass
+massachusetts
+massacre
+massive
+master
+match
+material
+materials
+math
+mathematical
+mathematics
+mathew
+matt
+matter
+matters
+matthew
+max
+max ax
+maximum
+maybe
+maynard
+mb
+mb8f
+mc
+mccall
+mcgill
+mcgill ca
+mcgill edu
+mcovingt
+mcrcim
+mcrcim mcgill
+mcs
+md
+mean
+meaning
+means
+meant
+measure
+measures
+mechanical
+mechanism
+med
+media
+medical
+medicine
+meet
+meeting
+meg
+megs
+melbourne
+mellon
+mellon pittsburgh
+member
+members
+membership
+memory
+men
+mention
+mentioned
+menu
+mercury
+merely
+message
+messages
+messiah
+met
+metal
+method
+methodology
+methods
+mets
+mf
+mg
+mh
+mhz
+mi
+michael
+michael covington
+michigan
+micro
+microsoft
+microsystems
+mid
+middle
+midway
+midway uchicago
+mike
+mil
+mile
+mileage
+miles
+military
+militia
+miller
+million
+millions
+milwaukee
+min
+mind
+minds
+minimum
+minister
+ministry
+minnesota
+minor
+minority
+minute
+minutes
+mirror
+misc
+miss
+missed
+missing
+mission
+missions
+missouri
+mistake
+mistakes
+mit
+mit edu
+mitchell
+mitre
+mitre org
+mix
+mj
+mk
+ml
+mm
+mn
+mo
+mode
+model
+models
+modem
+modern
+modes
+modified
+modify
+module
+moment
+mon
+monash
+monash edu
+monday
+money
+monitor
+monitors
+month
+monthly
+months
+montreal
+moon
+moral
+morality
+morgan
+mormons
+morning
+morris
+moscow
+mot
+mot com
+mother
+motherboard
+motif
+motion
+motor
+motorcycle
+motorcycles
+motorola
+motto
+mount
+mountain
+mountain passes
+mouse
+mouth
+moved
+movement
+movie
+moving
+mp
+mph
+mq
+mr
+ms
+ms dos
+ms windows
+msdos
+msg
+msstate
+msstate edu
+msu
+msu edu
+mt
+mu
+multi
+multiple
+murder
+murdered
+murders
+murphy
+murray
+music
+muslim
+muslims
+mv
+mvp
+mw
+mx
+myers
+mz
+n3jxp
+n3jxp skepticism
+na
+na lines
+na nntp
+na organization
+named
+names
+nasa
+nasa gov
+nation
+national
+nations
+natural
+naturally
+nature
+naval
+navy
+navy mil
+nazi
+nazis
+nb
+nc
+ncr
+ncr com
+ncsl
+ncsl nist
+ncsu
+ncsu edu
+ne
+near
+nearly
+nec
+nec com
+necessarily
+necessary
+need
+needed
+needs
+negative
+neighbor
+neighbors
+neil
+nelson
+net
+netcom
+netcom com
+netcom online
+netters
+network
+networks
+neutral
+new
+new jersey
+new testament
+new york
+new zealand
+newer
+news
+news cso
+news software
+newsgroup
+newsgroups
+newsletter
+newspaper
+newsreader
+newsreader tin
+newton
+newton apple
+nf
+nh
+nhl
+nice
+nichols
+nick
+night
+nih
+nist
+nist gov
+nj
+nj nec
+nl
+nmsu
+nmsu edu
+nntp
+nntp posting
+noise
+non
+noring
+normal
+normally
+norman
+north
+north carolina
+northern
+norton
+norway
+nose
+note
+noted
+notes
+notice
+noticed
+notion
+novell
+nra
+nrhj
+ns
+ns1
+nsa
+nsmca
+nt
+nubus
+nuclear
+null
+number
+numbers
+numerous
+nuy
+nwu
+nwu edu
+ny
+nyc
+nyi
+nyr
+nyx
+nyx cs
+nz
+oac
+oac uci
+oakland
+oakland edu
+object
+objective
+objects
+observation
+observations
+observatory
+obtain
+obtained
+obvious
+obviously
+occupation
+occupied
+occur
+occurred
+occurs
+odd
+offense
+offensive
+offer
+offered
+offers
+office
+officer
+officers
+official
+officials
+oh
+ohanus
+ohanus appressian
+ohio
+ohio state
+oil
+ok
+okay
+okcforum
+okz
+old
+older
+olson
+ones
+online
+online communications
+ontario
+op
+open
+opened
+opening
+openwindows
+operate
+operating
+operation
+operations
+operator
+opinion
+opinions
+opinions expressed
+opportunity
+opposed
+opposite
+optilink
+optilink com
+option
+optional
+options
+oracle
+oracle com
+orbit
+orbital
+order
+ordered
+orders
+ordinary
+oregon
+org
+organization bell
+organization california
+organization case
+organization computer
+organization department
+organization dept
+organization express
+organization hewlett
+organization lines
+organization nasa
+organization national
+organization netcom
+organization ohio
+organization purdue
+organization sun
+organization univ
+organization university
+organizations
+organized
+oriented
+origin
+original
+originally
+originator
+orion
+orion oac
+orthodox
+os
+osf
+ot
+ottawa
+ottoman
+ought
+outlet
+outlets
+output
+outside
+overall
+owned
+owner
+owners
+ownership
+oz
+oz au
+ozone
+p2
+p3
+pa
+pa lines
+pacific
+pack
+package
+packages
+packard
+packet
+pad
+page
+pages
+paid
+pain
+paint
+pair
+palestine
+palestinian
+palestinians
+panel
+panix
+panix com
+paper
+papers
+paragraph
+parallel
+parent
+parents
+park
+parking
+particular
+particularly
+parties
+partners
+parts
+party
+pasadena
+pasadena lines
+pass
+passage
+passages
+passed
+passes
+passing
+past
+pat
+patch
+patches
+path
+patient
+patients
+patrick
+pattern
+paul
+pay
+paying
+pc
+pd
+pds
+peace
+penalties
+penalty
+penguins
+pennsylvania
+pens
+people
+people don
+people like
+people think
+percent
+percentage
+perfect
+perfectly
+perform
+performance
+performed
+period
+permanent
+permission
+permit
+perry
+person
+personal
+personally
+persons
+perspective
+pete
+peter
+pgp
+ph
+phase
+phi
+phil
+philadelphia
+philips
+phillies
+philosophy
+phoenix
+phone
+phones
+photo
+phrase
+physical
+physics
+pick
+picked
+picture
+pictures
+piece
+pieces
+pilot
+pin
+pins
+pit
+pitch
+pitcher
+pitching
+pitt
+pitt edu
+pittsburgh
+pittsburgh computer
+pittsburgh pa
+pixel
+pixmap
+pl
+pl pl
+pl6
+pl8
+pl8 lines
+pl9
+place
+placed
+places
+plain
+plan
+plane
+planes
+planet
+planetary
+planned
+planning
+plans
+plant
+plastic
+plate
+platforms
+play
+played
+player
+players
+playing
+playoff
+playoffs
+plays
+plenty
+plug
+plus
+pm
+po
+po cwru
+point
+point view
+pointed
+pointing
+points
+police
+policies
+policy
+policy research
+political
+political atheists
+politics
+polygon
+pool
+poor
+pop
+pope
+popular
+population
+port
+portable
+portal
+portal com
+portion
+ports
+position
+positions
+positive
+possibility
+possible
+possibly
+post
+posted
+poster
+posters
+posting
+posting host
+postings
+posts
+postscript
+potential
+power
+power play
+power supply
+powerbook
+powerful
+powers
+pp
+practical
+practice
+practices
+pray
+prayer
+prb
+prb access
+pre
+precisely
+predictions
+prefer
+prepared
+presence
+present
+presented
+president
+press
+pressure
+presumably
+pretty
+pretty good
+prevent
+previous
+previous article
+previously
+price
+prices
+primarily
+primary
+prime
+prince
+princeton
+princeton edu
+principle
+principles
+print
+printed
+printer
+printers
+printf
+printing
+prior
+prism
+prism gatech
+prison
+privacy
+private
+pro
+probably
+probe
+problem
+problems
+procedure
+proceeded
+process
+processing
+processor
+produce
+produced
+produces
+product
+production
+products
+professional
+professor
+profit
+program
+programmer
+programming
+programs
+progress
+project
+projects
+promise
+promised
+proof
+propaganda
+proper
+properly
+property
+prophecy
+prophet
+proposal
+proposed
+propulsion
+protect
+protected
+protecting
+protection
+protocol
+proud
+prove
+proven
+provide
+provided
+provides
+providing
+ps
+psu
+psu edu
+psuvm
+psuvm psu
+psychology
+pt
+pts
+pu
+pub
+public
+public access
+public domain
+public key
+publication
+publicly
+published
+puck
+pull
+pulled
+punishment
+purchase
+purchased
+purdue
+purdue edu
+purdue university
+pure
+purpose
+purposes
+push
+puts
+putting
+pyramid
+q6
+qax
+qax ax
+ql
+qq
+qs
+qtm
+quack
+quadra
+qualcomm
+quality
+quantum
+que
+quebec
+question
+questions
+quick
+quickly
+quicktime
+quit
+quite
+quote
+quoted
+quotes
+qy
+r3
+r4
+r5
+r6
+r8f
+ra
+race
+radar
+radar detector
+radio
+radius
+rain
+raise
+raised
+ralph
+ram
+ramsey
+ramsey cs
+ran
+random
+randy
+range
+rangers
+rape
+rare
+rate
+rates
+ratio
+rational
+ray
+rbi
+rd
+reach
+reached
+reaction
+read
+reader
+readers
+reading
+ready
+real
+real time
+real world
+reality
+realize
+realized
+really
+really don
+rear
+reason
+reasonable
+reasonably
+reasoning
+reasons
+rec
+recall
+receive
+received
+receiver
+receiving
+recent
+recently
+recognize
+recognized
+recommend
+recommended
+record
+records
+red
+red wings
+reduce
+reduced
+reed
+refer
+reference
+references
+referred
+referring
+reflect
+reform
+refused
+regard
+regarding
+regardless
+regards
+region
+regional
+register
+registered
+registration
+regular
+regularly
+regulations
+reject
+related
+relations
+relationship
+relative
+relatively
+release
+released
+relevant
+reliable
+religion
+religions
+religious
+rely
+remain
+remaining
+remains
+remark
+remarks
+remember
+remote
+remove
+removed
+removing
+repair
+repeat
+repeated
+replace
+replaced
+replacement
+replies
+reply
+reply geb
+report
+reported
+reports
+represent
+representatives
+represents
+republic
+republicans
+request
+requests
+require
+required
+requirement
+requirements
+requires
+research
+research center
+research cpr
+reserve
+reserve university
+residents
+resistance
+resolution
+resource
+resources
+respect
+respond
+response
+responses
+responsibility
+responsible
+rest
+restrictions
+result
+resulting
+results
+resurrection
+return
+returned
+returns
+revealed
+revelation
+reverse
+review
+revolver
+rf
+rg
+ri
+rice
+rich
+richard
+richardson
+rick
+rid
+ride
+rider
+ridiculous
+riding
+right
+rights
+ring
+ripem
+risc
+rise
+risk
+rit
+rit edu
+river
+rk
+rkba
+rl
+rlk
+rm
+road
+roads
+rob
+robert
+roby
+rochester
+rochester edu
+rock
+rocket
+rockets
+rocks
+roger
+rogers
+role
+roll
+rom
+roman
+romans
+ron
+room
+root
+rose
+rose hulman
+roughly
+round
+routine
+routines
+row
+roy
+royal
+rpi
+rpi edu
+rs
+rsa
+rtsg
+rtsg mot
+rule
+rules
+run
+running
+runs
+rush
+rushdie
+russell
+russia
+russian
+russians
+rutgers
+rutgers edu
+rwing
+ryan
+rz
+s1
+s2
+s6
+sabbath
+sad
+safe
+safety
+said
+sail
+sake
+sale
+sale organization
+sales
+salvation
+sam
+sample
+san
+san diego
+san francisco
+san jose
+sandvik
+sandvik newton
+santa
+sas
+sas upenn
+sat
+satan
+satellite
+satellites
+saturday
+saturn
+save
+saved
+saves
+saw
+say
+saying
+says
+sb
+sc
+scale
+scanner
+schedule
+scheme
+schneider
+school
+schools
+sci
+sci crypt
+sci space
+science
+science department
+science lines
+sciences
+scientific
+scientist
+scientists
+scope
+score
+scored
+scorer
+scores
+scoring
+scott
+screen
+screw
+scripture
+scsi
+sdpa
+sdpa org
+sdsu
+sdsu edu
+se
+sea
+sean
+search
+seas
+season
+seat
+seattle
+sec
+second
+second amendment
+seconds
+secret
+secretary
+section
+sections
+sector
+secular
+secure
+security
+seeing
+seek
+seen
+selanne
+select
+selected
+selection
+self
+self defense
+sell
+selling
+semi
+senate
+senator
+senators
+send
+send email
+send mail
+sender
+sending
+senior
+sense
+sensitive
+sensitivity
+sent
+sentence
+separate
+sequence
+sera
+sera zuma
+serdar
+serdar argic
+serial
+serial number
+series
+seriously
+serve
+served
+server
+servers
+serves
+service
+services
+services 408
+session
+set
+sets
+setting
+settings
+setup
+seven
+severe
+sex
+sexual
+sf
+sfu
+sfu ca
+sg
+sgi
+sgi com
+sh
+shadow
+shaft
+shall
+shameful
+shameful surrender
+shape
+share
+shared
+shareware
+sharks
+sheet
+shell
+shift
+ship
+shipping
+shit
+sho
+shoot
+shooting
+shop
+short
+shot
+shots
+shouldn
+showed
+showing
+shown
+shows
+shut
+shuttle
+si
+sick
+sides
+sig
+sign
+signal
+signals
+signature
+signed
+significant
+significantly
+signs
+silicon
+silly
+silver
+similar
+similarly
+simm
+simms
+simon
+simple
+simply
+sin
+single
+sins
+sit
+site
+sites
+sitting
+situation
+situations
+size
+sj
+sk
+skepticism
+skepticism chastity
+skills
+skin
+sky
+sl
+slave
+sleep
+slightly
+slot
+slots
+slow
+slower
+small
+smaller
+smart
+smith
+smith subject
+smoke
+snow
+soc
+social
+society
+socket
+soft
+software
+software vax
+sol
+solar
+sold
+soldiers
+solid
+solntze
+solntze wpd
+solution
+solutions
+solve
+somebody
+somewhat
+son
+sony
+soon
+sorry
+sort
+sorts
+soul
+sound
+sounds
+sounds like
+source
+source code
+sources
+south
+southern
+soviet
+soviet armenia
+sox
+sp
+space
+space shuttle
+space station
+spacecraft
+sparc
+spare
+spdcc
+speak
+speaker
+speaking
+spec
+special
+species
+specific
+specifically
+specified
+specify
+specs
+spectrum
+speech
+speed
+speeds
+spencer
+spend
+spending
+spent
+sphere
+spirit
+spiritual
+split
+spoke
+sport
+sports
+spot
+spot colorado
+spread
+spring
+sq
+square
+ss
+ssd
+st
+st louis
+stable
+staff
+stage
+stan
+stand
+standard
+standards
+standing
+stands
+stanford
+stanford edu
+stanford university
+stanley
+stanley cup
+star
+stars
+start
+started
+starting
+starts
+stat
+state
+state edu
+state university
+stated
+statement
+statements
+states
+station
+statistics
+stats
+status
+stay
+std
+std com
+stealth
+steel
+steering
+stein
+step
+stephanopoulos
+stephen
+stereo
+sternlight
+steve
+steveh
+steven
+stevens
+stewart
+stick
+stl
+stock
+stolen
+stone
+stop
+stopped
+storage
+store
+stored
+stories
+story
+straight
+strange
+stratus
+stratus com
+stream
+street
+strength
+strike
+string
+strip
+strong
+strongly
+structure
+stuck
+student
+students
+studies
+study
+stuff
+stuff deleted
+stupid
+style
+su
+sub
+subject clipper
+subject gun
+subject help
+subject need
+subject new
+subject tapped
+subject wanted
+subjective
+submit
+subscribe
+substance
+success
+successful
+suddenly
+suffer
+suffered
+suffering
+sufficient
+suggest
+suggested
+suggestion
+suggestions
+suggests
+suicide
+suit
+suitable
+suite
+sumgait
+summary
+summer
+sun
+sun com
+sun microsystems
+sunday
+sunos
+super
+superior
+supply
+support
+supported
+supporting
+supports
+suppose
+supposed
+supposedly
+supreme
+sure
+surely
+surface
+surprise
+surprised
+surrender
+surrender soon
+survey
+survive
+survivors
+suspect
+sv
+svga
+sw
+sw stratus
+swap
+swap file
+sweden
+switch
+switches
+switzerland
+sy
+symptoms
+syndrome
+syria
+sys
+systems
+t5
+t7
+table
+taken
+takes
+taking
+talent
+talk
+talked
+talking
+talks
+tampa
+tamu
+tamu edu
+tank
+tanks
+tap
+tape
+tapes
+tapped
+tapped code
+tar
+target
+targets
+task
+taste
+taught
+tax
+taxes
+taylor
+tb
+tc
+tcp
+te
+teach
+teaching
+teachings
+team
+teams
+tear
+tear gas
+tech
+technical
+technique
+techniques
+technologies
+technology
+technology lines
+technology pasadena
+ted
+tek
+tek com
+tektronix
+tel
+telecommunications
+telephone
+telescope
+television
+tell
+telling
+tells
+temperature
+temple
+temporary
+tend
+tends
+term
+terminal
+terms
+terrible
+territory
+terrorism
+terrorist
+terrorists
+terry
+test
+testament
+tested
+testing
+tests
+texas
+texas austin
+text
+tg
+thank
+thanks
+thanks advance
+thanks help
+thanx
+theology
+theories
+theory
+thf2
+thing
+things
+things like
+think
+thinking
+thinks
+thomas
+thor
+thor isc
+thought
+thoughts
+thousand
+thousands
+thread
+threat
+threw
+throw
+thrown
+thu
+thursday
+ti
+ti com
+ticket
+tickets
+tie
+tiff
+till
+tim
+time
+time time
+timer
+times
+timing
+timothy
+tin
+tin version
+tire
+tired
+tires
+titan
+title
+tl
+tm
+tn
+tobacco
+today
+todd
+told
+tom
+tommy
+tomorrow
+tonight
+tony
+took
+tool
+toolkit
+tools
+topic
+topics
+tor
+toronto
+toronto edu
+toronto zoology
+total
+totally
+touch
+tough
+tower
+town
+toyota
+tq
+trace
+track
+trade
+traded
+tradition
+traditional
+traffic
+train
+training
+transfer
+translation
+transmission
+travel
+treat
+treated
+treatment
+tree
+trial
+trick
+tried
+trip
+troops
+trouble
+truck
+true
+truly
+trust
+truth
+trw
+trw com
+try
+trying
+tt
+tu
+tu dresden
+tube
+tue
+tuesday
+turbo
+turkey
+turkish
+turks
+turn
+turned
+turning
+turns
+tv
+twice
+tx
+type
+types
+typical
+typically
+typing
+tyre
+ub
+ubc
+ubc ca
+uc
+uchicago
+uchicago edu
+uci
+uci edu
+ucs
+ucs indiana
+ucsc
+ucsc edu
+ucsd
+ucsd edu
+ucsu
+ucsu colorado
+udel
+udel edu
+ufl
+ufl edu
+uga
+uga edu
+uh
+uh edu
+uic
+uic edu
+uicvm
+uicvm uic
+uiuc
+uiuc edu
+uk
+uk lines
+ulowell
+ultb
+ultra
+um
+umass
+umd
+umd edu
+umich
+umich edu
+umn
+umn edu
+unable
+unc
+unc edu
+understand
+understanding
+understood
+unfortunately
+uni
+union
+unique
+unit
+united
+united states
+units
+univ
+univ pittsburgh
+universal
+universe
+university
+university california
+university chicago
+university cleveland
+university colorado
+university georgia
+university illinois
+university lines
+university new
+university texas
+university toronto
+university virginia
+university washington
+unix
+unknown
+unless
+unlike
+unlikely
+unm
+unm edu
+unusual
+uoknor
+uoknor edu
+update
+updated
+upenn
+upenn edu
+upgrade
+upper
+ups
+urartu
+urartu sdpa
+urbana
+urbana lines
+usa
+usa lines
+usa nntp
+usa organization
+usage
+usc
+usc edu
+use
+used
+useful
+useless
+usenet
+usenet ins
+user
+users
+uses
+using
+usr
+usual
+usually
+ut
+utah
+utexas
+utexas edu
+utilities
+utility
+utk
+utk edu
+utkvm1
+utkvm1 utk
+utoronto
+utoronto ca
+uu
+uu net
+uucp
+uucp serdar
+uucp uunet
+uuencode
+uunet
+uvic
+uvic ca
+uw
+uwaterloo
+uwaterloo ca
+uwm
+uwm edu
+uwo
+uwo ca
+uxa
+uxa cso
+uy
+uz
+v1
+va
+valid
+valuable
+value
+values
+valve
+van
+vancouver
+variable
+variety
+various
+vary
+vast
+vax
+vax vms
+ve
+ve got
+ve heard
+ve seen
+veal
+vehicle
+vehicles
+vela
+vela acs
+vendor
+vendors
+venus
+verse
+version
+version pl6
+version pl8
+version pl9
+versions
+vertical
+vesa
+vga
+vice
+vice ico
+victim
+victims
+victoria
+video
+video card
+view
+viewer
+views
+viking
+village
+villages
+violation
+violence
+violent
+virginia
+virginia edu
+virginia lines
+virtual
+virtually
+virus
+visible
+vision
+visit
+visual
+vlb
+vm
+vms
+vms vnews
+vnet
+vnet ibm
+vnews
+vnews 41
+voice
+void
+vol
+voltage
+volume
+vote
+votes
+vram
+vs
+vt
+vt edu
+vu
+vw
+w0
+w1
+w7
+wa
+waco
+wait
+waiting
+walk
+walker
+wall
+walter
+wam
+wam umd
+want
+want know
+wanted
+wants
+war
+warning
+warrant
+warranty
+warren
+wars
+washington
+washington dc
+washington edu
+wasn
+waste
+watch
+watched
+watching
+water
+waterloo
+watson
+wave
+way
+wayne
+ways
+wc
+weak
+weapon
+weapons
+wear
+wearing
+weather
+weaver
+week
+weekend
+weeks
+weeks ago
+weight
+weird
+welcome
+went
+weren
+west
+western
+western reserve
+wheel
+white
+white house
+wide
+widely
+widget
+widgets
+width
+wife
+wild
+william
+williams
+willing
+wilson
+win
+wind
+window
+window manager
+windows
+windows nt
+wing
+wings
+winner
+winners
+winning
+winnipeg
+wins
+winter
+wire
+wires
+wiretap
+wiring
+wisc
+wisc edu
+wisconsin
+wisdom
+wise
+wish
+witness
+witnesses
+wm
+wm wm
+wm4u
+woman
+women
+won
+wonder
+wonderful
+wondering
+wood
+word
+words
+work
+worked
+working
+works
+workstation
+workstations
+world
+world lines
+world nntp
+world organization
+world reply
+world std
+worried
+worry
+worse
+worship
+worst
+worth
+wouldn
+wpd
+wpd sgi
+wpi
+wpi edu
+wright
+write
+writer
+writes
+writes article
+writes does
+writes hi
+writes just
+writing
+written
+wrong
+wrote
+wrote article
+wt
+wustl
+wustl edu
+ww
+wwiz
+x11
+x11r4
+x11r5
+x6
+xlib
+xpert
+xt
+xterm
+xv
+xview
+ya
+yale
+yale edu
+yankees
+yd
+ye
+yeah
+year
+year old
+years
+years ago
+yeast
+yes
+yesterday
+yfn
+yfn ysu
+york
+young
+ysu
+ysu edu
+yx
+z5
+za
+zealand
+zero
+zip
+zone
+zoo
+zoo toronto
+zoology
+zuma
+zuma uucp
+zv
